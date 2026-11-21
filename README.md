@@ -6,7 +6,6 @@ Real-world business problems solved in Microsoft Excel, part of my 30-day data a
 |---|---|---|---|
 | 01 | [Sales Data Cleaning](01-sales-data-cleaning/) | Can this sales file be trusted for reporting? | Text functions, date parsing, Remove Duplicates, pivot tables |
 | 02 | [Personal Expense Tracker](02-expense-tracker/) | Where does a student's money go, and which categories break the budget? | SUMIFS, mixed cell references, budget vs actual, conditional formatting |
-| 03 | [Kirana Store Inventory](03-kirana-inventory/) | Where is the store's money tied up, and what needs restocking now? | Text functions (LEFT, MID, FIND, SUBSTITUTE), IFS, UNIQUE, SUMIFS |
 
 More projects are added as the challenge goes on.
 
